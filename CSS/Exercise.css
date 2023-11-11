@@ -1,0 +1,11 @@
+
+#red {
+    color: red;
+} 
+#Happiness{
+     color: darkcyan;
+}
+
+.Exercise{
+color:color-mix(in lch, rgb(204, 112, 50) 70%, powderblue 30%) ;    
+}

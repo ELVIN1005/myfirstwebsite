@@ -1,0 +1,41 @@
+h1  {
+	font-size: 3vw;
+	color:color-mix(in lch, darkslategray 70%, steelblue 20%);
+}
+h2  {
+	border: solid;
+	color: color-mix(in lch, darkslategray 70%, steelblue 20%);
+	border-width: 2px;
+	padding-left: 5px	;
+}
+h3  {
+	font-size: 3vw;
+	color:color-mix(in lch, darkslategray 70%, steelblue 20%);
+}
+h1,h2,h3 {
+	text-transform: uppercase;
+}
+table,th,td {
+	border-style: dotted;
+	border-color: coral;
+}
+table {
+	border-collapse: collapse;
+	text-align: center;
+	
+}
+body {
+	font-family: "Verdana", Geneva, Tahoma, sans-serif;
+	background-image:url("../img/ocean_bg.jpg")
+}
+.stats{
+	  color:color-mix(in lch, navy 70%, darkgreen 30%);
+
+}
+div{
+	margin: 10px;
+	border: 5px solid  lightskyblue;
+	padding: 10px;
+	width: 300px;
+}
+       
